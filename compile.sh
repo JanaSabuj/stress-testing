@@ -1,0 +1,1 @@
+g++ -o a a.cpp && g++ -o brute brute.cpp && g++ -o gen gen.cpp
